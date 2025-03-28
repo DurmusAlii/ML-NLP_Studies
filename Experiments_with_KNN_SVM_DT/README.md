@@ -38,19 +38,7 @@ The dataset used in this project is the **Wisconsin Breast Cancer Diagnostic Dat
 ## How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Experiments_with_KNN_SVM_DT.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd Experiments_with_KNN_SVM_DT
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook Experiments_with_KNN_SVM_DT.ipynb
+   git clone https://github.com/DurmusAlii/ML-NLP_Studies/Experiments_with_KNN_SVM_DT.git
    ```
 
 ## Dependencies
